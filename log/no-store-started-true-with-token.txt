@@ -1,0 +1,16 @@
+~ 'https://api.stan.com.au/rec/v1/blue/related?genres=Sport%2CFootball&maxRating=PG&source=5641707&started=true&jwToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzQ1ODE5MDMsImlhdCI6MTc2NDIxMzkwMywianRpIjoiMTBjNGQ0YzZjY2FhNDkzNjk2YWJkOGU5YzdhNTlmYjgiLCJyb2xlIjoidXNlciIsInVpZCI6IjU4MTE1MmVkMjhmNjRjZjJhMWU1MmU3ODk3MjViZjBhIiwic3RyZWFtcyI6ImhkIiwiY29uY3VycmVuY3kiOjQsInByb2ZpbGVJZCI6IjU4MTE1MmVkMjhmNjRjZjJhMWU1MmU3ODk3MjViZjBhIiwicHJvZmlsZU5hbWUiOiJQZXRlciIsInR6IjoiQXVzdHJhbGlhL01lbGJvdXJuZSIsImFwcCI6IlN0YW4tV2ViIiwidmVyIjoiNjljY2Y0ZiIsIm51aWQiOiIyNzFlYzk3Zjc2ODM0YWYxYTEyNWFlM2U5MTIyZjJjNiIsImFwaWQiOiJiMjZkNWI3ZS1jNzU1LWUyMTQtNjhiYy0zY2UyZGJlMWJiMGQiLCJmZWF0IjoyMzQzNzEwMjU0ODgwMCwicHJpY2VOYW1lIjoidmlwIn0.R5kEuYbvcrdc-s4fWDK15AjvrAt4cIvDV5iE0CA6e_M'
+jwtoken.exp: 2026-03-27T03:25:03Z
+status: ((200 OK))
+   (Content-Type = application/json; charset=utf-8)
+   (Vary = Accept-Encoding)
+   (Cache-Control = max-age=20)
+   (Date = Thu, 27 Nov 2025 05:02:37 GMT)
+   (Connection = keep-alive)
+   (Access-Control-Allow-Origin = *)
+('Content-Type' = 'application/json; charset=utf-8')
+('Vary' = 'Accept-Encoding')
+('Cache-Control' = 'max-age=20')
+('Date' = 'Thu, 27 Nov 2025 05:02:37 GMT')
+('Connection' = 'keep-alive')
+('Access-Control-Allow-Origin' = '*')
+(dict (.entries = nil) (.model = 'related') (.title = 'More Like This') (.total = 0) (.updated = 1764219477) (.vendor = 1))

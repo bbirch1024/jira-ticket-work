@@ -1,0 +1,322 @@
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=160) (Date = Thu, 27 Nov 2025 23:31:53 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=145) (Date = Thu, 27 Nov 2025 23:32:08 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=130) (Date = Thu, 27 Nov 2025 23:32:23 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=115) (Date = Thu, 27 Nov 2025 23:32:38 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=100) (Date = Thu, 27 Nov 2025 23:32:53 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=85) (Date = Thu, 27 Nov 2025 23:33:08 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=70) (Date = Thu, 27 Nov 2025 23:33:23 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=55) (Date = Thu, 27 Nov 2025 23:33:38 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=40) (Date = Thu, 27 Nov 2025 23:33:53 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=25) (Date = Thu, 27 Nov 2025 23:34:08 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=10) (Date = Thu, 27 Nov 2025 23:34:23 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286173, 28 Nov 2025 10:29:33 AEDT, 27 Nov 2025 23:29:33 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=300) (Date = Thu, 27 Nov 2025 23:34:38 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *) ~ '  body has changed'
+  number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=284) (Date = Thu, 27 Nov 2025 23:34:54 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=269) (Date = Thu, 27 Nov 2025 23:35:09 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=254) (Date = Thu, 27 Nov 2025 23:35:24 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=239) (Date = Thu, 27 Nov 2025 23:35:39 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=224) (Date = Thu, 27 Nov 2025 23:35:54 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=209) (Date = Thu, 27 Nov 2025 23:36:09 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=194) (Date = Thu, 27 Nov 2025 23:36:24 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=179) (Date = Thu, 27 Nov 2025 23:36:39 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=164) (Date = Thu, 27 Nov 2025 23:36:54 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=149) (Date = Thu, 27 Nov 2025 23:37:09 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=134) (Date = Thu, 27 Nov 2025 23:37:24 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=119) (Date = Thu, 27 Nov 2025 23:37:39 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=104) (Date = Thu, 27 Nov 2025 23:37:54 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=89) (Date = Thu, 27 Nov 2025 23:38:09 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=73) (Date = Thu, 27 Nov 2025 23:38:25 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=58) (Date = Thu, 27 Nov 2025 23:38:40 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=43) (Date = Thu, 27 Nov 2025 23:38:55 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=28) (Date = Thu, 27 Nov 2025 23:39:10 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=13) (Date = Thu, 27 Nov 2025 23:39:25 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286478, 28 Nov 2025 10:34:38 AEDT, 27 Nov 2025 23:34:38 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=300) (Date = Thu, 27 Nov 2025 23:39:40 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *) ~ '  body has changed'
+  number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=285) (Date = Thu, 27 Nov 2025 23:39:55 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=270) (Date = Thu, 27 Nov 2025 23:40:10 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=255) (Date = Thu, 27 Nov 2025 23:40:25 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=240) (Date = Thu, 27 Nov 2025 23:40:40 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=225) (Date = Thu, 27 Nov 2025 23:40:55 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=210) (Date = Thu, 27 Nov 2025 23:41:10 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=195) (Date = Thu, 27 Nov 2025 23:41:25 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=180) (Date = Thu, 27 Nov 2025 23:41:40 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=165) (Date = Thu, 27 Nov 2025 23:41:55 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=149) (Date = Thu, 27 Nov 2025 23:42:11 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=134) (Date = Thu, 27 Nov 2025 23:42:26 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=119) (Date = Thu, 27 Nov 2025 23:42:41 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=104) (Date = Thu, 27 Nov 2025 23:42:56 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=89) (Date = Thu, 27 Nov 2025 23:43:11 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=74) (Date = Thu, 27 Nov 2025 23:43:26 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=59) (Date = Thu, 27 Nov 2025 23:43:41 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=44) (Date = Thu, 27 Nov 2025 23:43:56 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=29) (Date = Thu, 27 Nov 2025 23:44:11 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=14) (Date = Thu, 27 Nov 2025 23:44:26 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764286780, 28 Nov 2025 10:39:40 AEDT, 27 Nov 2025 23:39:40 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=300) (Date = Thu, 27 Nov 2025 23:44:41 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *) ~ '  body has changed'
+  number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764287081, 28 Nov 2025 10:44:41 AEDT, 27 Nov 2025 23:44:41 UTC
+~ 'https://api.stan.com.au/rec/v1/related?genres=Sport%2CFootball&maxRating=PG&source=5486795&started=true&jwToken='
+  status: ((200 OK)) headers: (Content-Type = application/json; charset=utf-8) (Vary = Accept-Encoding) (Cache-Control = max-age=285) (Date = Thu, 27 Nov 2025 23:44:56 GMT) (Connection = keep-alive) (Access-Control-Allow-Origin = *)   number of entries: 0
+  total: 0
+  vendor: 1
+  model: related
+  updated: 1764287081, 28 Nov 2025 10:44:41 AEDT, 27 Nov 2025 23:44:41 UTC

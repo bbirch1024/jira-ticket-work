@@ -1,0 +1,18 @@
+{
+  "apid": "c674a8ff-b0bc-4724-ae60-366ff58a1e07",
+  "app": "Stan-Web",
+  "concurrency": 1,
+  "exp": "2025-12-02T06:35:04Z",
+  "feat": 23436565677378,
+  "iat": "2025-12-01T20:35:04Z",
+  "jti": "9d62d8683fe047789753079c8a2ab091",
+  "nuid": "fd0b1472795c4f5ca72c19db3147acf2",
+  "priceName": "basicv2",
+  "profileId": "2e3ff044d810478ea48bb296e50a3f6f",
+  "profileName": "Peter",
+  "role": "user",
+  "streams": "sd",
+  "tz": "Australia/Melbourne",
+  "uid": "2e3ff044d810478ea48bb296e50a3f6f",
+  "ver": "07d9db9"
+}

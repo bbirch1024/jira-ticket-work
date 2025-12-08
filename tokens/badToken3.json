@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "header": {
+    "alg": "HS512",
+    "typ": "JWT"
+  },
+  "payload": {
+    "apid": "b26d5b7e-c755-e214-68bc-3ce2dbe1bb0d",
+    "app": "Stan-Web",
+    "concurrency": 4,
+    "exp": "2026-03-31T06:17:53Z",
+    "feat": 23162224641856,
+    "iat": "2025-12-01T06:17:53Z",
+    "jti": "1a7c5dbd7d174f34b302dbe11b5e9a0e",
+    "nuid": "271ec97f76834af1a125ae3e9122f2c6",
+    "priceName": "vip",
+    "profileId": "581152ed28f64cf2a1e52e789725bf0a",
+    "profileName": "Peter",
+    "role": "user",
+    "streams": "hd",
+    "tz": "Australia/Melbourne",
+    "uid": "581152ed28f64cf2a1e52e789725bf0a",
+    "ver": "07d9db9"
+  },
+  "signature": false
+}
