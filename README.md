@@ -46,4 +46,10 @@ Feed ID  Version  Title                                              Pages
 1802     40       Sports Documentaries                               448    
 1676     32       Tennis Fans: Enjoy More Entertainment on Stan      295    
 3588     14       Welcome To Stan: New & Hot                         182    
-git status```
+```
+
+Production e-t-e testing
+
+```
+streamco-env -env prod -tunnel CMS_DATABASE_URL hubot,myworkspace go run .
+```
