@@ -1,0 +1,400 @@
+FeatureOffline bit: 0 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureInternal bit: 1 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureUhd bit: 2 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureKidsProfile bit: 3 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureStandardPlan bit: 4 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureQA bit: 5 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureSport bit: 6 
+   total: 56
+   vendor: 1
+   entries:
+     5258022 'Force v Brumbies - Super Rugby Women\'s Round 1 2025'
+     5269729 'Force v Reds - Super Rugby Pacific Round 3 2025'
+     5269728 'Hurricanes v Blues - Super Rugby Pacific Round 3 2025'
+     5269734 'Moana Pasifika v Highlanders - Super Rugby Pacific Round 3 2025'
+     5407912 'Queensland Reds Under 16 v NSW Waratahs Under 16 - Men\'s Super Rugby U16 2024'
+     5548480 'Session test'
+     5269726 'Waratahs v Fijian Drua - Super Rugby Pacific Round 3 2025'
+     5258021 'Waratahs v Fijian Drua - Super Rugby Women\'s Round 1 2025'
+     5049767 'ARC18.3 Men\'s Individual Quarterfinal'
+     5084303 'AZ v Elfsborg - UEFA Europa League 2024/2025'
+     5084470 'Athletic Club v Slavia Praha - UEFA Europa League 2024/2025'
+     5258839 'Chelsea v Manchester United'
+     5128136 'Elfsborg v Pafos - UEFA Europa League 2024/2025'
+     4993009 'Football - Spain v Australia - Olympic Football TEST Feature'
+     5090286 'Internazionale v Crvena zvezda - UEFA Champions League 2024/2025'
+FeatureGlobalised bit: 7 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureAskWhoIsWatching bit: 8 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeaturePremiumPlan bit: 9 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureDynamicSitemap bit: 10 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureFullFeeds bit: 11 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureHDR bit: 12 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureDolbyVision bit: 13 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureDolbyAtmos bit: 14 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureHEVC bit: 15 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeaturePlayReadyNoOutputProtection bit: 16 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureSportUpsell bit: 17 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureDashWithTimeline bit: 18 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureLive bit: 19 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureItunesBilled bit: 20 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureStripeBilled bit: 21 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureSportStreamingInVenues bit: 24 
+   total: 3
+   vendor: 1
+   entries:
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureLiveUHD bit: 25 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureNewProfile bit: 27 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureItunesPurchaseAvailable bit: 28 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureOlderProfile bit: 29 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureClearAudio bit: 30 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureAllowInAppPurchases bit: 31 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureLinearStream bit: 32 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureForceSD bit: 33 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureStudioScreen2160 bit: 34 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureStudioHWSecurity bit: 35 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureStudioPartlyUnhackable bit: 36 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureStudioUnhackable bit: 37 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureQualityUpsell bit: 38 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureSubhubBilled bit: 39 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureWidevineOrPlayReady bit: 40 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureFairPlay bit: 41 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureSubhub bit: 42 
+   total: 20
+   vendor: 1
+   entries:
+     5269735 'Chiefs v Brumbies - Super Rugby Pacific Round 3 2025'
+     5724641 'Optus 4k - Kai: 17/12/2025 16:38'
+     2835088 'Super Rugby AU Rd 1 - Force v Brumbies'
+     2835089 'Super Rugby AU Rd 1 - Reds v Waratahs'
+     2835086 'Super Rugby AU Rd 2 - Reds v Rebels'
+     2835087 'Super Rugby AU Rd 3 - Waratahs v Force'
+     2835091 'Super Rugby AU Rd 6 - Waratahs vs. Reds'
+     2835092 'Super Rugby AU Rd 7 - Western Force vs. Waratahs'
+     2835093 'Super Rugby AU Rd 8 Western Force vs. Reds'
+     5491736 'TEST Everton v Bournemouth - Summer Series MD1 2025'
+     5491737 'TEST Man United v West Ham - Summer Series MD1 2025'
+     5501513 'TEST Racing Louisville v KC Current - NWSL MW 14 2025'
+     5501514 'TEST Yokohama FC v Urawa - J League MW 25 2025'
+     5709238 'yoyo-osos2 optus - : 03/12/2025 11:41'
+     3230588 'Martin Zapata v Daman Saudi'
+FeatureSubhubNav bit: 43 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureEntertainment bit: 44 
+   total: 22
+   vendor: 1
+   entries:
+     5724592 'Fastly - CAT No Ads 2 - : 17/12/2025 12:54'
+     5724637 'Peter Segment Investigation - Peter: 17/12/2025 15:43'
+     5313381 'How to be accepted by the dev team'
+     5113695 'How to replace your CMS with airtable'
+     2829705 'Live test'
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     5009059 'SMWYG - Dynamic query all the things'
+     2735407 'Teñnis Live 1'
+     5009971 'Tincho & Friends - Sidecar Special Tino'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+     4314931 'Backend Regression Testing - SMWYG'
+     4193017 'Behind the scenes of the App Store'
+     4084334 'CAT - Mon, 17 Apr 2023 09:07:45 AEST'
+FeatureExperimentFourthCta bit: 45 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureOptusBasicAndSportUpsellExperiment bit: 46 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureOptusStandardAndSportUpsellExperiment bit: 47 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
+FeatureCommonAccessToken bit: 48 
+   total: 4
+   vendor: 1
+   entries:
+     3230588 'Martin Zapata v Daman Saudi'
+     5672798 'Ring of Fire - PPV Test'
+     4941455 'Uncaged PPV Test'
+     5473046 'Arsenal vs Man U'
