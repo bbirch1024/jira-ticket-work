@@ -16,6 +16,7 @@ with sport as (
 	    and genres::text like '%Sport%'
 	    and genres::text not like '%Animation%'
 	    and duration <> 0
+        and type = ANY(ARRAY['extra']::program_type_enum[]) -- ANY(ARRAY['movie','series','linear']::program_type_enum[])
 	    --and kids = false
 		--and type in ('movie', 'series', 'linear')
 --	    and not ( false
@@ -62,7 +63,7 @@ mlt as (
 		and b.genres::text like '%Combat%'
 	group by 1
 )
-select mlt.id, sport.title, like_this 
+select mlt.id, sport.type, sport.title, like_this 
 from mlt
 join sport on mlt.id = sport.id
 
