@@ -30,9 +30,11 @@ def unpack-params(path)
                 params(.put ^param (intern sp!left) value)
     params
                 
+var input 'error-Nov.24.09.not-token.related.tsv'
 var path-records-result
     os!exec '/bin/bash' '-c' 
-        'duckdb -csv -noheader -c "select event_path from \'error-Nov.24.09.not-token.related.tsv\';"'
+        'duckdb -csv -noheader -c "select event_path from \'%a\';"'
+            .format input
         
 var paths path-records-result!left
 for P in paths
