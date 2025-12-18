@@ -1,0 +1,24 @@
+Dec 17 09:00:14 ip-10-1-220-33 rec[5354]: 
+{
+    "asn": "1221",
+    "city": "SYDNEY",
+    "clientIP": "1.145.99.55",
+    "code": "Streamco.Rec.Unauthorized",
+    "country": "AU",
+    "error": true,
+    "eventType": "error",
+    "host": "rec-loadbal-1gnegzdocpid4-81963089.ap-southeast-2.elb.amazonaws.com",
+    "ip": "1.145.99.55, 23.205.115.36, 23.40.103.185",
+    "lat": "-33.88",
+    "long": "151.22",
+    "message": "invalid session token: couldn't parse eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjU5Mjk2MDAsImlhdCI6MTc2NTc1NjgwMCwicm9sZSI6IiIsInVpZCI6IjU2ZWY1YThkZGM3ZDQ4NjBiYjhjNmI1N2I3NWE4YzA4Iiwic3RyZWFtcyI6IiIsImNvbmN1cnJlbmN5IjowLCJwcm9maWxlSWQiOiI1NmVmNWE4ZGRjN2Q0ODYwYmI4YzZiNTdiNzVhOGMwOCIsInByb2ZpbGVOYW1lIjoiIiwiZmVhdCI6NTQxMzc1NjI0NzAxNDh9.yaiaMWepz2WF4JRYiwy5ELACAWjSSCe8jm7a8zExtqE: token is expired",
+    "method": "GET",
+    "path": "/topshows?recToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjU5Mjk2MDAsImlhdCI6MTc2NTc1NjgwMCwicm9sZSI6IiIsInVpZCI6IjU2ZWY1YThkZGM3ZDQ4NjBiYjhjNmI1N2I3NWE4YzA4Iiwic3RyZWFtcyI6IiIsImNvbmN1cnJlbmN5IjowLCJwcm9maWxlSWQiOiI1NmVmNWE4ZGRjN2Q0ODYwYmI4YzZiNTdiNzVhOGMwOCIsInByb2ZpbGVOYW1lIjoiIiwiZmVhdCI6NTQxMzc1NjI0NzAxNDh9.yaiaMWepz2WF4JRYiwy5ELACAWjSSCe8jm7a8zExtqE&zzz=json&jwToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzYzMzAwMTMsImlhdCI6MTc2NTk2MjAxMywianRpIjoiNzY3YzQwYTM2Y2JlNDFkYjk2NDI5NTE0NWY2Y2Y0ZjkiLCJyb2xlIjoidXNlciIsInVpZCI6IjU2ZWY1YThkZGM3ZDQ4NjBiYjhjNmI1N2I3NWE4YzA4Iiwic3RyZWFtcyI6InVoZCIsImNvbmN1cnJlbmN5Ijo0LCJwcm9maWxlSWQiOiI1NmVmNWE4ZGRjN2Q0ODYwYmI4YzZiNTdiNzVhOGMwOCIsInByb2ZpbGVOYW1lIjoiQ29keSIsInR6IjoiQXVzdHJhbGlhL1N5ZG5leSIsImFwcCI6IlN0YW4tU2Ftc3VuZ1RWIiwidmVyIjoiOC43LjAiLCJudWlkIjoiNzc3ZDk3ZmMxZjUxNGI4NGE3M2I5ZDJiMzQzOGRlM2IiLCJhcGlkIjoiNTI0MmNlMTEtZjk4NC1hNzE2LWE1NjUtNzA1ZjdiMzhmNDIxIiwiZmVhdCI6NTQxMzc1NjI0NzAxNDgsInByaWNlTmFtZSI6InByZW1pdW12NiJ9.aXdbfdWfBV313I3AaCNFXTzp7qdkHn8TN-mPRbJIQwE&tz=Australia%2FSydney",
+    "profileID": "56ef5a8ddc7d4860bb8c6b57b75a8c08",
+    "region": "NSW",
+    "serverTime": 1765962014272,
+    "status": 400,
+    "time": "2025-12-17T09:00:14.272171251Z",
+    "userID": "56ef5a8ddc7d4860bb8c6b57b75a8c08",
+    "user_agent_raw": "Mozilla/5.0 (SMART-TV; LINUX; Tizen 8.0) AppleWebKit/537.36 (KHTML, like Gecko) 108.0.5359.1/8.0 TV Safari/537.36"
+}

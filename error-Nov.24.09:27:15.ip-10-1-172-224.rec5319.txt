@@ -1,0 +1,24 @@
+Nov 24 09:27:15 ip-10-1-172-224 rec[5319]: 
+{
+    "asn": "7545",
+    "city": "ADELAIDE",
+    "clientIP": "114.30.99.177",
+    "code": "Streamco.Rec.Unauthorized",
+    "country": "AU",
+    "error": true,
+    "eventType": "error",
+    "host": "rec-loadbal-1gnegzdocpid4-81963089.ap-southeast-2.elb.amazonaws.com",
+    "ip": "114.30.99.177, 10.101.143.5, 150.101.143.76, 10.62.36.178, 23.62.36.179",
+    "lat": "-34.93",
+    "long": "138.60",
+    "message": "invalid session jwToken: couldn't parse eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjM4NTYwMDAsImlhdCI6MTc2MzY4MzIwMCwicm9sZSI6IiIsInVpZCI6ImUwZTFjMTI1NzU0NDRiOWRiMmE5M2Y2YTZkMDU3Y2UxIiwic3RyZWFtcyI6IiIsImNvbmN1cnJlbmN5IjowLCJwcm9maWxlSWQiOiJlMGUxYzEyNTc1NDQ0YjlkYjJhOTNmNmE2ZDA1N2NlMSIsInByb2ZpbGVOYW1lIjoiIiwiZmVhdCI6NTQ0MTE5MDM1MDE1ODh9.-96gbG1u8iZ2nKugWHkEIDDwcmgKDLDptr4kXgVv3A8: token is expired",
+    "method": "GET",
+    "path": "/personal?recToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NjM4NTYwMDAsImlhdCI6MTc2MzY4MzIwMCwicm9sZSI6IiIsInVpZCI6ImUwZTFjMTI1NzU0NDRiOWRiMmE5M2Y2YTZkMDU3Y2UxIiwic3RyZWFtcyI6IiIsImNvbmN1cnJlbmN5IjowLCJwcm9maWxlSWQiOiJlMGUxYzEyNTc1NDQ0YjlkYjJhOTNmNmE2ZDA1N2NlMSIsInByb2ZpbGVOYW1lIjoiIiwiZmVhdCI6NTQ0MTE5MDM1MDE1ODh9.-96gbG1u8iZ2nKugWHkEIDDwcmgKDLDptr4kXgVv3A8&zzz=json&jwToken=eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzQzNDQ0MzIsImlhdCI6MTc2Mzk3NjQzMiwianRpIjoiZTE1MmY2YThjYmY2NDk5MDg4ODYzZmI3MWY1ZmRkMDUiLCJyb2xlIjoidXNlciIsInVpZCI6ImUwZTFjMTI1NzU0NDRiOWRiMmE5M2Y2YTZkMDU3Y2UxIiwic3RyZWFtcyI6ImhkIiwiY29uY3VycmVuY3kiOjMsInByb2ZpbGVJZCI6ImUwZTFjMTI1NzU0NDRiOWRiMmE5M2Y2YTZkMDU3Y2UxIiwicHJvZmlsZU5hbWUiOiJEYXJyZW4iLCJ0eiI6IkF1c3RyYWxpYS9BZGVsYWlkZSIsImFwcCI6IlN0YW4tU2Ftc3VuZ1RWIiwidmVyIjoiOC42LjAiLCJudWlkIjoiZTFhY2MxYWNmY2E5NGIxOTliZjFlMTVlNmVlMDFlMjYiLCJhcGlkIjoiZTk2MTQ1NzctZDQ4MC03YjRmLWViOTUtYjE2YjlmOThjZDU3IiwiZmVhdCI6NTQ0MTE5MDM1MDE1ODgsInByaWNlTmFtZSI6InN0YW5kYXJkdjUifQ.iFGdXniZtGmpXbbwXxHhOmJhDFbcpoXjr9Zocp9kETI&tz=Australia%2FAdelaide",
+    "profileID": "e0e1c12575444b9db2a93f6a6d057ce1",
+    "region": "SA",
+    "serverTime": 1763976435721,
+    "status": 400,
+    "time": "2025-11-24T09:27:15.721606799Z",
+    "userID": "e0e1c12575444b9db2a93f6a6d057ce1",
+    "user_agent_raw": "Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) 85.0.4183.93/6.5 TV Safari/537.36"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "header": {
+    "alg": "HS256",
+    "kid": "pikachu",
+    "typ": "JWT"
+  },
+  "payload": {
+    "apid": "e9614577-d480-7b4f-eb95-b16b9f98cd57",
+    "app": "Stan-SamsungTV",
+    "concurrency": 3,
+    "exp": "2026-03-24T09:27:12Z",
+    "feat": 54411903501588,
+    "iat": "2025-11-24T09:27:12Z",
+    "jti": "e152f6a8cbf6499088863fb71f5fdd05",
+    "nuid": "e1acc1acfca94b199bf1e15e6ee01e26",
+    "priceName": "standardv5",
+    "profileId": "e0e1c12575444b9db2a93f6a6d057ce1",
+    "profileName": "Darren",
+    "role": "user",
+    "streams": "hd",
+    "tz": "Australia/Adelaide",
+    "uid": "e0e1c12575444b9db2a93f6a6d057ce1",
+    "ver": "8.6.0"
+  },
+  "signature": false
+}

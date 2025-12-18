@@ -1,0 +1,20 @@
+{
+  "active": false,
+  "header": {
+    "alg": "HS256",
+    "kid": "pikachu",
+    "typ": "JWT"
+  },
+  "payload": {
+    "concurrency": 0,
+    "exp": "2025-11-23T00:00:00Z",
+    "feat": 54411903501588,
+    "iat": "2025-11-21T00:00:00Z",
+    "profileId": "e0e1c12575444b9db2a93f6a6d057ce1",
+    "profileName": "",
+    "role": "",
+    "streams": "",
+    "uid": "e0e1c12575444b9db2a93f6a6d057ce1"
+  },
+  "signature": false
+}
