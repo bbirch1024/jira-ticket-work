@@ -3,6 +3,62 @@
 
 search for errors
 
+### Look for errors in /related
+
+```
+{ $.eventType = "error" && $.message != %token% && $.path = %/related% }
+```
+
+[](https://ap-southeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-2#logsV2:log-groups/log-group/prod$252Frec/log-events$3Fstart$3D1763974800000$26end$3D1763978399000$26filterPattern$3D$257B+$2524.eventType+$253D+$2522error$2522+$2526$2526+$2524.message+$2521$253D+$2525token$2525+$2526$2526+$2524.path+$253D+$2525$252Frelated$2525+$257D)
+
+Download some and convert and decode
+
+```
+./cloud-watch-logs.g error-Nov.24.09.not-token.related.csv > error-Nov.24.09.not-token.related.tsv
+```
+
+# see what the falures are maybe
+
+```
+$ duckdb -csv -c "select param_path, event_eventType, event_code, param_genres, param_source from 'error-Nov.24.09.not-token.related.tsv';" | frangipanni -breaks ',' -counts -order counts
+param_path,event_eventType,event_code,param_genres,param_source: 1
+/related,error: 44
+    Streamco.Rec.GoogleAPIError: 12
+        Sport,5527001: 1
+        "Drama,Crime",11725: 1
+        Entertainment,5675992: 2
+        "Sport,Football",5455363: 3
+        nil: 5
+            5536297: 1
+            5675992: 1
+            4994815: 1
+            5623880: 2
+    Streamco.Rec.VendorNoResults: 32
+        Sport,5527001: 1
+        "Drama,Crime",11725: 1
+        Entertainment,5675992: 2
+        nil: 6
+            5536297: 1
+            5675992: 1
+            4994815: 1
+            5536191: 1
+            5623880: 2
+        "Sport,Football": 10
+            5455360: 1
+            5024797: 1
+            5536191: 2
+            5455363: 3
+            5455361: 3
+        "Reality,Entertainment",147105: 12
+
+```
+
+## Maybe try to replay the errors
+
+
+
+### Found bad recTokens - whatrever :-(
+
 [link](https://ap-southeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-2#logsV2:log-groups/log-group/prod$252Frec/log-events$3Fstart$3D1765962000000$26end$3D1766102399000$26filterPattern$3D$257B+$2524.eventType+$253D+$2522error$2522+$2526$2526+$2524.message+$253D$2525token$2525++$257D)
 
 

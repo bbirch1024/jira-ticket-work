@@ -30,7 +30,7 @@ assert (equal? 'a,b' (de-hex 'a%2Cb'))
 
 var headers
     data
-        event = (asn city clientIP correlationID country eventType host ip lat long method path profileID referer region resultCount seedId serverTime sessionAppName time userID user_agent_raw vendor)
+        event = (asn city clientIP code correlationID country eventType host ip lat long method path profileID referer region resultCount seedId serverTime sessionAppName time userID user_agent_raw vendor)
         param = (path clipsAutoplayDisabled exclude feat feedTypes genres jwToken recToken kids maxRating nonKids offset profileId purchases source started tripleNav tz)
         jwt = (apid app concurrency exp feat iat jti kids nuid priceName profileId profileName purchases role streams tz tzOffset uid ver)
         recjwt = (concurrency exp feat iat kids profileId profileName role streams uid)
@@ -57,12 +57,20 @@ for R in rows!right
     setq NR (+ NR 1)
     var message (nth 1 R)
     # "Dec  2 19:54:12 ip-10-1-213-244 rec[5063]: {
-    assert (message(.match '^[a-zA-Z]+ +[0-9]+.[0-9]+.[0-9]+.*'))
+#    print message
+#    assert (message(.match '^[a-zA-Z]+ +[0-9]+.[0-9]+.[0-9]+.*'))
+#    assert (message(.match '^[a-zA-Z]+'))
+#    print message
+#    os!exit
     var tok (message(.split '\]: '))
-    var js ((nth 1 tok)(.fromJSON))
-#    print js
+    var msg-no-quote ((nth 1 tok)(.replace '\"' '"'))
+    var msg-no-cr (msg-no-quote(.replace '\n' ' '))
+#    print @LINE msg-no-cr
+    var js (msg-no-cr(.fromJSON))
+#    print @LINE js!vars
     cond
         (js!user_agent_raw(.match '.*curl.*'))
+#        (js!user_agent_raw(.match '.*GoogleAPIError.*'))
         else
             var params (js(.asGraph ^event))
             var X (js!path(.split '[&?]'))
