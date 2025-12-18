@@ -101,7 +101,7 @@ All the rest have entries.
 
 Conclusion is this is no longer a problem.
 
-### Found bad recTokens - whatrever :-(
+### Found bad recTokens - side quest
 
 [link](https://ap-southeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-2#logsV2:log-groups/log-group/prod$252Frec/log-events$3Fstart$3D1765962000000$26end$3D1766102399000$26filterPattern$3D$257B+$2524.eventType+$253D+$2522error$2522+$2526$2526+$2524.message+$253D$2525token$2525++$257D)
 
@@ -150,7 +150,7 @@ Query the data
 ```
 ./cloud-watch-logs.g cloudwatch.error.token.csv > cloudwatch.error.token.tsv
  duckdb -c "SELECT param_path, count(*) number FROM read_csv('cloudwatch.error.token.tsv', sep = '\t', header = true) group by 1 order by 2;"  
-```
+
 ┌────────────────┬────────┐
 │   param_path   │ number │
 │    varchar     │ int64  │
