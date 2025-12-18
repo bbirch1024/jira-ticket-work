@@ -3,21 +3,21 @@
 
 search for errors
 
-### Look for errors in /related
+### Look for errors in /related tothe day of Nov 24 when the issue was reported.
 
 ```
 { $.eventType = "error" && $.message != %token% && $.path = %/related% }
 ```
 
-[](https://ap-southeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-2#logsV2:log-groups/log-group/prod$252Frec/log-events$3Fstart$3D1763974800000$26end$3D1763978399000$26filterPattern$3D$257B+$2524.eventType+$253D+$2522error$2522+$2526$2526+$2524.message+$2521$253D+$2525token$2525+$2526$2526+$2524.path+$253D+$2525$252Frelated$2525+$257D)
+[AWS CloudWatch query link](https://ap-southeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-southeast-2#logsV2:log-groups/log-group/prod$252Frec/log-events$3Fstart$3D1763974800000$26end$3D1763978399000$26filterPattern$3D$257B+$2524.eventType+$253D+$2522error$2522+$2526$2526+$2524.message+$2521$253D+$2525token$2525+$2526$2526+$2524.path+$253D+$2525$252Frelated$2525+$257D)
 
-Download some and convert and decode
+Download and convert and decode:
 
 ```
 ./cloud-watch-logs.g error-Nov.24.09.not-token.related.csv > error-Nov.24.09.not-token.related.tsv
 ```
 
-# see what the falures are maybe
+# see what the falures were
 
 ```
 $ duckdb -csv -c "select param_path, event_eventType, event_code, param_genres, param_source from 'error-Nov.24.09.not-token.related.tsv';" | frangipanni -breaks ',' -counts -order counts
@@ -53,9 +53,53 @@ param_path,event_eventType,event_code,param_genres,param_source: 1
 
 ```
 
-## Maybe try to replay the errors
+## Replay the errors
+
+Used the recorded URL again. Print out the interesting failures.
+
+```
+./replay-errors.g > replay-errors.log.txt
+```
+
+[log is here](replay-errors.log.txt)
+
+Some zero entries returned
+
+    Zero entries (4994815)
+    Zero entries (5455363)
+
+One actual error (the source not exists)
+
+```
+    Errors (5675992)
+        tz Australia/Melbourne
+        path /related
+        jwToken eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzQzNDQxODAsImlhdCI6MTc2Mzk3NjE4MCwianRpIjoiNTE3YTUyNmFkZTljNDFlMWJiMTYyNGQwY2IyMWJiOWQiLCJyb2xlIjoidXNlciIsInVpZCI6IjM3YjAwNmViYzliZDRiY2NiMzI0MjRlODRiZWQ3MmFhIiwic3RyZWFtcyI6InNkIiwiY29uY3VycmVuY3kiOjEsInByb2ZpbGVJZCI6IjM3YjAwNmViYzliZDRiY2NiMzI0MjRlODRiZWQ3MmFhIiwicHJvZmlsZU5hbWUiOiJLZWxzZXkiLCJhcHAiOiJTdGFuLWlPUyIsInZlciI6IjQuNDEuMC41NDYiLCJudWlkIjoiZjhjZWE4MzQzODdlNDEyMjhkMzJjZGNlM2M5NzU2ODQiLCJhcGlkIjoiYjFjODM1OWYtMzU0ZC02NTg3LTc4MGMtYmQ3YWQ1YTIxZjUyIiwiZmVhdCI6MjAzMDcxNDUwMzI5NjAsInByaWNlTmFtZSI6ImJhc2ljdjIifQ.fLhgDJyPZcu7kHT32Q_QgKkF9t45QOHA316p9E0S2Rg
+        source 5675992
+        purchases 0
+        offset 0
+        feat 20307145032960
+    dict (.errors = ((dict (.code = 'Streamco.Rec.BadRequest') (.message = 'program 5675992 not found & no genres provided'))))
+    Bad request (5675992) (404 Not Found)
+        tz Australia/Melbourne
+        path /related
+        jwToken eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzQzNDQxODAsImlhdCI6MTc2Mzk3NjE4MCwianRpIjoiNTE3YTUyNmFkZTljNDFlMWJiMTYyNGQwY2IyMWJiOWQiLCJyb2xlIjoidXNlciIsInVpZCI6IjM3YjAwNmViYzliZDRiY2NiMzI0MjRlODRiZWQ3MmFhIiwic3RyZWFtcyI6InNkIiwiY29uY3VycmVuY3kiOjEsInByb2ZpbGVJZCI6IjM3YjAwNmViYzliZDRiY2NiMzI0MjRlODRiZWQ3MmFhIiwicHJvZmlsZU5hbWUiOiJLZWxzZXkiLCJhcHAiOiJTdGFuLWlPUyIsInZlciI6IjQuNDEuMC41NDYiLCJudWlkIjoiZjhjZWE4MzQzODdlNDEyMjhkMzJjZGNlM2M5NzU2ODQiLCJhcGlkIjoiYjFjODM1OWYtMzU0ZC02NTg3LTc4MGMtYmQ3YWQ1YTIxZjUyIiwiZmVhdCI6MjAzMDcxNDUwMzI5NjAsInByaWNlTmFtZSI6ImJhc2ljdjIifQ.fLhgDJyPZcu7kHT32Q_QgKkF9t45QOHA316p9E0S2Rg
+        source 5675992
+        purchases 0
+        offset 0
+        feat 20307145032960
+```
+
+Tested program 5675992 in the browser, and got this message, not 'Oops'
+
+    Sorry, we couldn't find this program
+    It may have been removed or isn't available yet.
+    Error code C4
 
 
+All the rest have entries.
+
+Conclusion is this is no longer a problem.
 
 ### Found bad recTokens - whatrever :-(
 
