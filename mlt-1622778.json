@@ -1,0 +1,2415 @@
+{
+  "entries": [
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/68428.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/68428.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "Haruki's Tests",
+      "expirationDate": 3203552091000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1625666400000,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Animated",
+        "Animation",
+        "Art"
+      ],
+      "guid": "68428",
+      "highDefinition": false,
+      "id": "68428",
+      "images": {
+        "Poster Art": {
+          "height": 512,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/684/28/68428-PosterArt-1f65458561bd11db0ee7f2551adaae6f.jpg~ribbon=new-episodes",
+          "width": 342
+        }
+      },
+      "lastAirDate": 1909663200000,
+      "previews": {},
+      "programType": "series",
+      "releaseYear": 2021,
+      "ribbon": {
+        "id": "new-episodes",
+        "name": "New Episodes",
+        "url": "https://streamcoimgtest-a.akamaihd.net/ribbons/new-episodes.svg"
+      },
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 3202860891000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/haruki-test"
+      },
+      "startDate": 1625715291000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Adventure",
+          "url": "/search?q=genre%3AAdventure"
+        },
+        {
+          "scheme": "genre",
+          "title": "Animated",
+          "url": "/search?q=genre%3AAnimated"
+        },
+        {
+          "scheme": "genre",
+          "title": "Animation",
+          "url": "/search?q=genre%3AAnimation"
+        },
+        {
+          "scheme": "genre",
+          "title": "Art",
+          "url": "/search?q=genre%3AArt"
+        }
+      ],
+      "title": "Haruki Test",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/68428.json"
+    },
+    {
+      "banner": {},
+      "bundle": "sport",
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/2864503.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "More Info",
+          "path": "/programs/2864503.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/2864503.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification",
+      "expirationDate": 2238038640000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 64
+      },
+      "firstAirDate": 3376648800000,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "guid": "2864503",
+      "highDefinition": false,
+      "id": "2864503",
+      "images": {
+        "Poster Art": {
+          "height": 240,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/286/4503/2864503-PosterArt-9c46c237c72e94444433381bf91ceab4.jpeg~liveStartDate=3376648800000~liveEndDate=0~badge=fullDate",
+          "width": 160
+        }
+      },
+      "liveStartDate": 3376648816266,
+      "longDescription": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification",
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2077,
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 2237347440000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/cyberpunk-2077-2077"
+      },
+      "shortMessage": "Will finally launch in the year 2077",
+      "startDate": 1606886640000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Adventure",
+          "url": "/search?q=genre%3AAdventure"
+        }
+      ],
+      "title": "Cyberpunk 2077",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/2864503.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/3375921.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/3375921.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 3233110513000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1654524000000,
+      "genre": [
+        "Adults only",
+        "Action"
+      ],
+      "guid": "3375921",
+      "highDefinition": false,
+      "id": "3375921",
+      "images": {
+        "Poster Art": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/337/5921/3375921-PosterArt-2d3cd49534b9cfac6a2d13033862e773.jpg",
+          "width": 720
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2022,
+      "runtime": 607,
+      "sharing": {
+        "expiresAt": 3232419313000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/nick-offermans-yule-log-2022"
+      },
+      "startDate": 1655187313000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Adults only",
+          "url": "/search?q=genre%3AAdults+only"
+        },
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        }
+      ],
+      "title": "Nick Offerman's \"Yule log\"",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/3375921.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/1670804.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "More Info",
+          "path": "/programs/1670804.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/1670804.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "With audio descriptions so everyone can enjoy",
+      "expirationDate": 1849803600000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "genre": [
+        "Comedy",
+        "Classic"
+      ],
+      "guid": "1670804",
+      "highDefinition": false,
+      "id": "1670804",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/167/0804/1670804-PosterArt-0b5ae4796597c51f347963a58fd20ece.jpg",
+          "width": 1000
+        }
+      },
+      "longDescription": "With audio descriptions so everyone can enjoy",
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "runtime": 1294,
+      "sharing": {
+        "expiresAt": 1849112400000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/audio-described-parks-and-rec"
+      },
+      "startDate": 1531922400000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Comedy",
+          "url": "/search?q=genre%3AComedy"
+        },
+        {
+          "scheme": "genre",
+          "title": "Classic",
+          "url": "/search?q=genre%3AClassic"
+        }
+      ],
+      "title": "Audio described Parks and Rec",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/1670804.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/1622778.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "More Info",
+          "path": "/programs/1622778.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/1622778.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "A version that everyone can enjoy",
+      "expirationDate": 1849803600000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1525701600000,
+      "genre": [
+        "Comedy",
+        "Docudrama"
+      ],
+      "guid": "1622778",
+      "highDefinition": false,
+      "id": "1622778",
+      "images": {
+        "Poster Art": {
+          "height": 1491,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/162/2778/1622778-PosterArt-9787d313c8217e088f8ff14102e73114.jpeg",
+          "width": 994
+        }
+      },
+      "longDescription": "A version that everyone can enjoy",
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2018,
+      "runtime": 1291,
+      "startDate": 1514725200000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Comedy",
+          "url": "/search?q=genre%3AComedy"
+        },
+        {
+          "scheme": "genre",
+          "title": "Docudrama",
+          "url": "/search?q=genre%3ADocudrama"
+        }
+      ],
+      "title": "Audio described Parks and Rec",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/1622778.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/1723592.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/1723592.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/1723592.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/1723592.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/1723592.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/1723592.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 1851083940000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "genre": [
+        "Art"
+      ],
+      "guid": "1723592",
+      "highDefinition": false,
+      "id": "1723592",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/172/3592/1723592-PosterArt-e05044bedda52e6dcccada45c11e6e94.jpeg",
+          "width": 1000
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "runtime": 888,
+      "sharing": {
+        "expiresAt": 1850392740000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/sintel"
+      },
+      "startDate": 1535378400000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Art",
+          "url": "/search?q=genre%3AArt"
+        }
+      ],
+      "title": "Sintel",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/1723592.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/50355.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/50355.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": [
+            "Themes",
+            "Emotions"
+          ],
+          "rating": "PG",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/50355.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/50355.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/50355.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/50355.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "A series of dramatic tales on life and the human condition, with some Stan crew original content",
+      "expirationDate": 3460802340000,
+      "firstAirDate": 1558101600000,
+      "genre": [
+        "Family",
+        "Kids",
+        "Young Kids",
+        "Adventure"
+      ],
+      "guid": "50355",
+      "highDefinition": false,
+      "id": "50355",
+      "images": {
+        "Banner-L2": {
+          "height": 751,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/503/55/50355-Banner-L2-37c171a7842224b284b07b9006642429.jpeg~ribbon=coming-soon",
+          "width": 2048
+        },
+        "Landscape": {
+          "height": 751,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/503/55/50355-Banner-L2-37c171a7842224b284b07b9006642429.jpeg~ribbon=coming-soon",
+          "width": 2048
+        },
+        "Poster Art": {
+          "height": 300,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/503/55/50355-PosterArt-b9b1e90554ce817476fec56538785960.jpg~ribbon=coming-soon",
+          "width": 200
+        }
+      },
+      "lastAirDate": 1558188000000,
+      "longDescription": "A series of dramatic tales on life and the human condition, with some Stan crew original content",
+      "previews": {},
+      "programType": "series",
+      "releaseYear": 2019,
+      "ribbon": {
+        "id": "coming-soon",
+        "name": "Coming Soon",
+        "url": "https://streamcoimgtest-a.akamaihd.net/ribbons/coming-soon.svg"
+      },
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 3460111140000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/the-adventures-of-sir-p-money"
+      },
+      "shortMessage": "New episodes whenever PMoney feels like it",
+      "startDate": 1567260000000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Family",
+          "url": "/search?q=genre%3AFamily"
+        },
+        {
+          "scheme": "genre",
+          "title": "Kids",
+          "url": "/search?q=genre%3AKids"
+        },
+        {
+          "scheme": "genre",
+          "title": "Young Kids",
+          "url": "/search?q=genre%3AYoung+Kids"
+        },
+        {
+          "scheme": "genre",
+          "title": "Adventure",
+          "url": "/search?q=genre%3AAdventure"
+        },
+        {
+          "scheme": "category",
+          "title": "Kids",
+          "url": "/search?q=kids"
+        }
+      ],
+      "title": "The Adventures of Sir P. Money",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/50355.json"
+    },
+    {
+      "banner": {},
+      "bundle": "sport",
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/4115662.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/4115662.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "PG",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/4115662.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/4115662.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/4115662.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/4115662.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 2000852468000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 64
+      },
+      "genre": [
+        "Art",
+        "Science"
+      ],
+      "guid": "4115662",
+      "highDefinition": false,
+      "id": "4115662",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/411/5662/4115662-PosterArt-87bdd57a65286c9ea904fccaa13aac6f.jpeg",
+          "width": 1000
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "runtime": 2352,
+      "sharing": {
+        "expiresAt": 2000161268000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/smwyg-refinery-a-honeycomb-tail"
+      },
+      "startDate": 1685492468000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Art",
+          "url": "/search?q=genre%3AArt"
+        },
+        {
+          "scheme": "genre",
+          "title": "Science",
+          "url": "/search?q=genre%3AScience"
+        }
+      ],
+      "title": "SMWYG: Refinery - A Honeycomb Tail",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/4115662.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/2266827.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/2266827.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/2266827.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/2266827.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/2266827.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/2266827.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 3515579999000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1564840800000,
+      "genre": [
+        "Action",
+        "Art"
+      ],
+      "guid": "2266827",
+      "highDefinition": false,
+      "id": "2266827",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/226/6827/2266827-PosterArt-baf614843d200dd23836771c14e8a886.jpeg",
+          "width": 1000
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2019,
+      "runtime": 1678,
+      "sharing": {
+        "expiresAt": 3514888799000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/ash-vs-evil-dead-2019"
+      },
+      "startDate": 1558879200000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Art",
+          "url": "/search?q=genre%3AArt"
+        }
+      ],
+      "title": "Ash vs Evil Dead",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/2266827.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/3150876.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/3150876.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/3150876.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/3150876.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/3150876.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/3150876.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 1950733002000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1635339600000,
+      "genre": [
+        "Sport",
+        "Action"
+      ],
+      "guid": "3150876",
+      "highDefinition": false,
+      "id": "3150876",
+      "images": {
+        "Poster Art": {
+          "height": 900,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/315/0876/3150876-PosterArt-26219c63ae1820d6fd52d1aa258b7504.jpg",
+          "width": 600
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2021,
+      "runtime": 3299,
+      "sharing": {
+        "expiresAt": 1950041802000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/indycar-testing-2021"
+      },
+      "startDate": 1635373002000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Sport",
+          "url": "/search?q=genre%3ASport"
+        },
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        }
+      ],
+      "title": "Indycar Testing",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/3150876.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/1726054.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "More Info",
+          "path": "/programs/1726054.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/1726054.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 1857214740000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "guid": "1726054",
+      "highDefinition": false,
+      "id": "1726054",
+      "images": {
+        "Poster Art": {
+          "height": 712,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/172/6054/1726054-PosterArt-a8f4d8018b669a590ac9082871d1a85e.jpeg",
+          "width": 474
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 1856523540000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/wolf-creek-clip"
+      },
+      "startDate": 1541509200000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Drama",
+          "url": "/search?q=genre%3ADrama"
+        }
+      ],
+      "title": "Wolf Creek Clip",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/1726054.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/2272231.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/2272231.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/2272231.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/2272231.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/2272231.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/2272231.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 1875362340000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "genre": [
+        "Action",
+        "Variety"
+      ],
+      "guid": "2272231",
+      "highDefinition": false,
+      "id": "2272231",
+      "images": {
+        "Banner-L2": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/227/2231/2272231-Banner-L2-e3758060de555b7f77bad399a7675bbe.jpg~ribbon=teaser",
+          "width": 1920
+        },
+        "Landscape": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/227/2231/2272231-Banner-L2-e3758060de555b7f77bad399a7675bbe.jpg~ribbon=teaser",
+          "width": 1920
+        },
+        "Poster Art": {
+          "height": 1000,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/227/2231/2272231-PosterArt-4dd7c0b216ca89be1f03aa6511e566f5.jpeg~ribbon=teaser",
+          "width": 685
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "ribbon": {
+        "id": "teaser",
+        "name": "Watch Teaser",
+        "url": "https://streamcoimgtest-a.akamaihd.net/ribbons/teaser.svg"
+      },
+      "runtime": 302,
+      "sharing": {
+        "expiresAt": 1874671140000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/mad-men"
+      },
+      "startDate": 1559656800000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Variety",
+          "url": "/search?q=genre%3AVariety"
+        }
+      ],
+      "title": "Mad Men",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/2272231.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/103712.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/103712.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "MA 15+",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/103712.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/103712.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/103712.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/103712.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 3274341000000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1694660400000,
+      "genre": [
+        "Action",
+        "Entertainment"
+      ],
+      "guid": "103712",
+      "highDefinition": false,
+      "id": "103712",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/103/712/103712-PosterArt-50038ce559065151663dc368ede70cb3.jpg",
+          "width": 1000
+        }
+      },
+      "lastAirDate": 1735610400000,
+      "previews": {},
+      "programType": "series",
+      "releaseYear": 2023,
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 3273649800000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/spartacus"
+      },
+      "startDate": 1726136100000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Entertainment",
+          "url": "/search?q=genre%3AEntertainment"
+        }
+      ],
+      "title": "Spartacus",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/103712.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/1670977.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "More Info",
+          "path": "/programs/1670977.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/1670977.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 1849803600000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "guid": "1670977",
+      "highDefinition": false,
+      "id": "1670977",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/167/0977/1670977-PosterArt-71bad436495e42ee7ff14744b25794ff.jpeg",
+          "width": 1000
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "runtime": 1795,
+      "sharing": {
+        "expiresAt": 1849112400000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/red-dwarf"
+      },
+      "startDate": 1532613600000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Sci-Fi",
+          "url": "/search?q=genre%3ASci-Fi"
+        }
+      ],
+      "title": "Red Dwarf",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/1670977.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/3143519.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/3143519.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/3143519.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/3143519.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/3143519.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/3143519.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 3212435698000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1634562000000,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "guid": "3143519",
+      "highDefinition": false,
+      "id": "3143519",
+      "images": {
+        "Banner-L2": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/314/3519/3143519-Banner-L2-7a9af85d9fdb18ad640fd34e6450a2c5.jpg",
+          "width": 1920
+        },
+        "Landscape": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/314/3519/3143519-Banner-L2-7a9af85d9fdb18ad640fd34e6450a2c5.jpg",
+          "width": 1920
+        },
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/314/3519/3143519-PosterArt-047490a62bdf0c99ba95c04db4db9c3f.jpg",
+          "width": 1000
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2021,
+      "runtime": 180,
+      "sharing": {
+        "expiresAt": 3211744498000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/androidtv-testing-2021"
+      },
+      "startDate": 1634598898000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Adventure",
+          "url": "/search?q=genre%3AAdventure"
+        }
+      ],
+      "title": "AndroidTV testing",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/3143519.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/22031.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/22031.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": [
+            "Strong violence",
+            "Crude humour",
+            "Coarse language"
+          ],
+          "rating": "MA 15+",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/22031.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/22031.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/22031.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/22031.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "Based on the Australian series of the same name, NO ACTIVITY (U.S.) is a Stan Original Series that celebrates the mundane in what should be a high stakes sting operation.",
+      "expirationDate": 1775570340000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1511096400000,
+      "genre": [
+        "Comedy",
+        "Sitcom",
+        "Crime"
+      ],
+      "guid": "22031",
+      "highDefinition": false,
+      "id": "22031",
+      "images": {
+        "Banner-L2": {
+          "height": 1080,
+          "url": "https://streamcoimg-a.akamaihd.net/000/220/31/22031-Banner-L2-8b8d9eea800119a55134f5629697ab83.jpg",
+          "width": 1920
+        },
+        "Landscape": {
+          "height": 1080,
+          "url": "https://streamcoimg-a.akamaihd.net/000/220/31/22031-Banner-L2-8b8d9eea800119a55134f5629697ab83.jpg",
+          "width": 1920
+        },
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimg-a.akamaihd.net/000/220/31/22031-PosterArt-00db95dbd0d4cc77a06e8c39842449e2.jpg",
+          "width": 1000
+        }
+      },
+      "lastAirDate": 1622123940000,
+      "longDescription": "Based on the Australian series of the same name, NO ACTIVITY (U.S.) is a Stan Original Series that celebrates the mundane in what should be a high stakes sting operation.",
+      "previews": {},
+      "programType": "series",
+      "releaseYear": 2017,
+      "runtime": 0,
+      "shortMessage": "New Episode Thursdays 6pm (AEST)",
+      "startDate": 1511087400000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Comedy",
+          "url": "/search?q=genre%3AComedy"
+        },
+        {
+          "scheme": "genre",
+          "title": "Sitcom",
+          "url": "/search?q=genre%3ASitcom"
+        },
+        {
+          "scheme": "genre",
+          "title": "Crime",
+          "url": "/search?q=genre%3ACrime"
+        }
+      ],
+      "title": "No Activity (U.S.)",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/22031.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/51596.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/51596.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "MA 15+",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/51596.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/51596.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/51596.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/51596.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+      "expirationDate": 1903615140000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1572526800000,
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "guid": "51596",
+      "highDefinition": false,
+      "id": "51596",
+      "images": {
+        "Banner-L2": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/515/96/51596-Banner-L2-3dbe565fe90d4b613c66c44308438a61.jpeg",
+          "width": 1920
+        },
+        "Landscape": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/515/96/51596-Banner-L2-3dbe565fe90d4b613c66c44308438a61.jpeg",
+          "width": 1920
+        },
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/515/96/51596-PosterArt-21e183c670cb76d993da0b926286906f.jpeg",
+          "width": 1000
+        }
+      },
+      "lastAirDate": 1598796000000,
+      "longDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. abc",
+      "previews": {},
+      "programType": "series",
+      "releaseYear": 2019,
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 1902923940000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/the-commons"
+      },
+      "startDate": 1588144380000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Drama",
+          "url": "/search?q=genre%3ADrama"
+        },
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        }
+      ],
+      "title": "The Commons",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/51596.json"
+    },
+    {
+      "banner": {},
+      "bundle": "sport",
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/4335811.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/4335811.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "PG",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/4335811.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/4335811.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/4335811.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/4335811.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 2020218989000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 64
+      },
+      "genre": [
+        "Action",
+        "Australian Television",
+        "Science",
+        "Special"
+      ],
+      "guid": "4335811",
+      "highDefinition": false,
+      "id": "4335811",
+      "images": {
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/433/5811/4335811-PosterArt-df06bda3c0bc76ba062095a8ecffe69c.jpeg",
+          "width": 1000
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "runtime": 2219,
+      "sharing": {
+        "expiresAt": 2019527789000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/a-bit-of-weather"
+      },
+      "startDate": 1704858989000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Australian Television",
+          "url": "/search?q=genre%3AAustralian+Television"
+        },
+        {
+          "scheme": "genre",
+          "title": "Science",
+          "url": "/search?q=genre%3AScience"
+        },
+        {
+          "scheme": "genre",
+          "title": "Special",
+          "url": "/search?q=genre%3ASpecial"
+        }
+      ],
+      "title": "A bit of Weather",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/4335811.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/2781352.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/2781352.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "M",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/2781352.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/2781352.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/2781352.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/2781352.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.",
+      "expirationDate": 1906207140000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "genre": [
+        "Action"
+      ],
+      "guid": "2781352",
+      "highDefinition": false,
+      "id": "2781352",
+      "images": {
+        "Banner-L2": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/278/1352/2781352-Banner-L2-e3758060de555b7f77bad399a7675bbe.jpg~ribbon=trailer",
+          "width": 1920
+        },
+        "Landscape": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/278/1352/2781352-Banner-L2-e3758060de555b7f77bad399a7675bbe.jpg~ribbon=trailer",
+          "width": 1920
+        },
+        "Poster Art": {
+          "height": 1500,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/278/1352/2781352-PosterArt-59697f1fec42db134b8610e751187297.jpeg~ribbon=trailer",
+          "width": 1000
+        }
+      },
+      "longDescription": "Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.",
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 0,
+      "ribbon": {
+        "id": "trailer",
+        "name": "Watch Trailer",
+        "url": "https://streamcoimgtest-a.akamaihd.net/ribbons/trailer.svg"
+      },
+      "runtime": 582,
+      "sharing": {
+        "expiresAt": 1905515940000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/gemini-man-2016"
+      },
+      "startDate": 1596204000000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        }
+      ],
+      "title": "Gemini Man (2016)",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/2781352.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/68428.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/68428.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/68428.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "Haruki's Tests",
+      "expirationDate": 3203552091000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1625666400000,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Animated",
+        "Animation",
+        "Art"
+      ],
+      "guid": "68428",
+      "highDefinition": false,
+      "id": "68428",
+      "images": {
+        "Poster Art": {
+          "height": 512,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/684/28/68428-PosterArt-1f65458561bd11db0ee7f2551adaae6f.jpg~ribbon=new-episodes",
+          "width": 342
+        }
+      },
+      "lastAirDate": 1909663200000,
+      "previews": {},
+      "programType": "series",
+      "releaseYear": 2021,
+      "ribbon": {
+        "id": "new-episodes",
+        "name": "New Episodes",
+        "url": "https://streamcoimgtest-a.akamaihd.net/ribbons/new-episodes.svg"
+      },
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 3202860891000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/haruki-test"
+      },
+      "startDate": 1625715291000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Adventure",
+          "url": "/search?q=genre%3AAdventure"
+        },
+        {
+          "scheme": "genre",
+          "title": "Animated",
+          "url": "/search?q=genre%3AAnimated"
+        },
+        {
+          "scheme": "genre",
+          "title": "Animation",
+          "url": "/search?q=genre%3AAnimation"
+        },
+        {
+          "scheme": "genre",
+          "title": "Art",
+          "url": "/search?q=genre%3AArt"
+        }
+      ],
+      "title": "Haruki Test",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/68428.json"
+    },
+    {
+      "banner": {},
+      "bundle": "sport",
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/2864503.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "More Info",
+          "path": "/programs/2864503.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/2864503.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "description": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification",
+      "expirationDate": 2238038640000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 64
+      },
+      "firstAirDate": 3376648800000,
+      "genre": [
+        "Action",
+        "Adventure"
+      ],
+      "guid": "2864503",
+      "highDefinition": false,
+      "id": "2864503",
+      "images": {
+        "Poster Art": {
+          "height": 240,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/286/4503/2864503-PosterArt-9c46c237c72e94444433381bf91ceab4.jpeg~liveStartDate=3376648800000~liveEndDate=0~badge=fullDate",
+          "width": 160
+        }
+      },
+      "liveStartDate": 3376648816266,
+      "longDescription": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification",
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2077,
+      "runtime": 0,
+      "sharing": {
+        "expiresAt": 2237347440000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/cyberpunk-2077-2077"
+      },
+      "shortMessage": "Will finally launch in the year 2077",
+      "startDate": 1606886640000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        },
+        {
+          "scheme": "genre",
+          "title": "Adventure",
+          "url": "/search?q=genre%3AAdventure"
+        }
+      ],
+      "title": "Cyberpunk 2077",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/2864503.json"
+    },
+    {
+      "banner": {},
+      "carousel": {
+        "cta": {
+          "primary": {
+            "label": "More",
+            "path": "/programs/3375921.json?feat=23436565677378",
+            "type": "info"
+          },
+          "secondary": {
+            "label": "Play",
+            "path": "/programs/3375921.json?feat=23436565677378",
+            "type": "play"
+          },
+          "tertiary": {
+            "label": "My List",
+            "type": "my-list"
+          }
+        }
+      },
+      "classifications": [
+        {
+          "consumerAdvice": null,
+          "rating": "G",
+          "scheme": ""
+        }
+      ],
+      "collections": {},
+      "contextMenu": [
+        {
+          "label": "Play",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "play"
+        },
+        {
+          "label": "More Info",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "info"
+        },
+        {
+          "label": "My List",
+          "type": "my-list"
+        }
+      ],
+      "cta": {
+        "primary": {
+          "label": "More",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "info"
+        },
+        "secondary": {
+          "label": "Play",
+          "path": "/programs/3375921.json?feat=23436565677378",
+          "type": "play"
+        },
+        "tertiary": {
+          "label": "My List",
+          "type": "my-list"
+        }
+      },
+      "expirationDate": 3233110513000,
+      "features": {
+        "precluded": 0,
+        "purchases": 0,
+        "required": 17592186044416
+      },
+      "firstAirDate": 1654524000000,
+      "genre": [
+        "Adults only",
+        "Action"
+      ],
+      "guid": "3375921",
+      "highDefinition": false,
+      "id": "3375921",
+      "images": {
+        "Poster Art": {
+          "height": 1080,
+          "url": "https://streamcoimgtest-a.akamaihd.net/000/337/5921/3375921-PosterArt-2d3cd49534b9cfac6a2d13033862e773.jpg",
+          "width": 720
+        }
+      },
+      "previews": {},
+      "programType": "movie",
+      "releaseYear": 2022,
+      "runtime": 607,
+      "sharing": {
+        "expiresAt": 3232419313000,
+        "publicUrl": "https://www.test.streamco.com.au/watch/nick-offermans-yule-log-2022"
+      },
+      "startDate": 1655187313000,
+      "tags": [
+        {
+          "scheme": "genre",
+          "title": "Adults only",
+          "url": "/search?q=genre%3AAdults+only"
+        },
+        {
+          "scheme": "genre",
+          "title": "Action",
+          "url": "/search?q=genre%3AAction"
+        }
+      ],
+      "title": "Nick Offerman's \"Yule log\"",
+      "type": "program",
+      "url": "https://api.test.streamco.com.au/programs/v1/legacy/programs/3375921.json"
+    }
+  ],
+  "model": "mlt-cvr-srv",
+  "title": "More Like This",
+  "total": 22,
+  "updated": 1765843488,
+  "vendor": 2
+}

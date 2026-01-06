@@ -1,6 +1,6 @@
 # 
 
-## Buildkite deploed at 13:49 to Test 
+## Buildkite deployed at 13:49 to Test 
 
 [](https://buildkite.com/streamco/recworker/builds/1762#019b0621-b9c2-488d-81ac-5d0222619911)
 
@@ -781,3 +781,39 @@ FeatureEntertainment bit: 44
      1622778 'Audio described Parks and Rec'
 ```
 See [for full results](cycle-feature.2.txt)
+
+
+
+# In the test environment 5.1.2026
+
+## query Sport programs for testing
+
+```
+streamco-env -env test rec bash
+cd cd ../BS-2670-Fix-for-empty-MLT-by-removing-feature-restrictions/
+psql --csv -f sport-mlt-in-test-env.sql "${CATALOGUE_DATABASE_URL}"
+
+id,type,title,like_this
+5422490,extra,Mini: Tabiul Test Mini,"{5422491,5424270,5429379,5437749}"
+5422491,extra,Highlights: Tabiul Test Mini,"{5422490,5424270,5429379,5437749}"
+5424270,extra,Highlights: Sahar VOD test,"{5422490,5422491,5429379,5437749}"
+5429379,extra,Mini: Test Slack Error Message,"{5422490,5422491,5424270,5437749}"
+5437749,extra,Mini: Tabiul Regression Test,"{5422490,5422491,5424270,5429379}"
+5425947,extra,Highlights: Fiorentina v Real Betis - UEFA Conference League 2024/2025,"{5473054,5485996,5485997,5485998,5679512,5687239,5687250,5961275}"
+5473054,extra,Press Conference: Arsenal,"{5425947,5485996,5485997,5485998,5679512,5687239,5687250,5961275}"
+5485996,extra,Mini: Tabiul Test Extras,"{5425947,5473054,5485997,5485998,5679512,5687239,5687250,5961275}"
+5485997,extra,Highlights: Tabiul Test Extras,"{5425947,5473054,5485996,5485998,5679512,5687239,5687250,5961275}"
+5485998,extra,Rapid Recap: Tabiul Test Extras,"{5425947,5473054,5485996,5485997,5679512,5687239,5687250,5961275}"
+5679512,extra,Test Live Expiry 2,"{5425947,5473054,5485996,5485997,5485998,5687239,5687250,5961275}"
+5687239,extra,Mini: Test Ads Metadata,"{5425947,5473054,5485996,5485997,5485998,5679512,5687250,5961275}"
+5687250,extra,Mini: Test Ads Metadata 2,"{5425947,5473054,5485996,5485997,5485998,5679512,5687239,5961275}"
+5961275,extra,Test Open,"{5425947,5473054,5485996,5485997,5485998,5679512,5687239,5687250}"
+5478972,extra,Mini: Tabiul vs Albert 3,"{5478973,5478974,5478975,5478976,5478977,5478978}"
+5478973,extra,Highlights: Tabiul vs Albert 3,"{5478972,5478974,5478975,5478976,5478977,5478978}"
+5478974,extra,Tabiul vs Albert 3,"{5478972,5478973,5478975,5478976,5478977,5478978}"
+5478975,extra,Rapid Recap: Tabiul vs Albert 3,"{5478972,5478973,5478974,5478976,5478977,5478978}"
+5478976,extra,Press Conference: Tabiul,"{5478972,5478973,5478974,5478975,5478977,5478978}"
+5478977,extra,Press Conference: Albert,"{5478972,5478973,5478974,5478975,5478976,5478978}"
+5478978,extra,Ball In Play: Tabiul vs Albert 3,"{5478972,5478973,5478974,5478975,5478976,5478977}"
+
+```
