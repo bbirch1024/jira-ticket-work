@@ -1,4 +1,4 @@
-package client_example
+package search
 
 import "base:runtime"
 import "core:fmt"

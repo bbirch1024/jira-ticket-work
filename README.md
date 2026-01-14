@@ -352,3 +352,18 @@ examples
 │ d2e4277b2b3e48bc806dd0d3ffa5d256 │ primati                                  │ google-media-search │                 17 │                                                                                                                                  
 │ d2e4277b2b3e48bc806dd0d3ffa5d256 │ primativ                                 │ stan-search         │                  0 │  
 ```
+
+## Use the new log file unpacker to query on feature names
+
+Unpack the log file. It rejects JWT in records with invalid UTF-8 sequences.
+
+```
+$ odin run cloudwatchlog -- cloudwatch/search.2026.01.11.13.30.csv > cloudwatch/search.2026.01.11.13.30.odin.tsv
+128 error decoding JWT BadJSON {"header": {"alg":"HS256","kid":"pikachu","typ":"JWT"}, "payload": {"exp":1778466593,"iat":1768098593,"jti":"d6ac162ab21c4b8bb25417639366a492","role":"user","uid":"ed16bef9465f44a89b2f2910bdb292c9","streams":"hd","concurrency":4,"profileId":"36cc1ff5bee0401495d3bd216ee86f8e","profileName":"bubbas🫶??","kids":true,"tz":"Australia/Hobart","app":"Stan-AndroidTV","ver":"5.17.0","nuid":"e99f1bfd4d334695bed401a9f4bcd0c7","apid":"b342799e-2968-0bb0-8181-938dd21607ee","feat":53945329125128,"priceName":"premiumv6"}, "signature": "FYFMGl2lF5O-q_RK6v3yR-CFBANH2YpI015pittySW4" }
+133 error decoding JWT BadJSON {"header": {"alg":"HS256","kid":"pikachu","typ":"JWT"}, "payload": {"exp":1778466593,"iat":1768098593,"jti":"d6ac162ab21c4b8bb25417639366a492","role":"user","uid":"ed16bef9465f44a89b2f2910bdb292c9","streams":"hd","concurrency":4,"profileId":"36cc1ff5bee0401495d3bd216ee86f8e","profileName":"bubbas🫶??","kids":true,"tz":"Australia/Hobart","app":"Stan-AndroidTV","ver":"5.17.0","nuid":"e99f1bfd4d334695bed401a9f4bcd0c7","apid":"b342799e-2968-0bb0-8181-938dd21607ee","feat":53945329125128,"priceName":"premiumv6"}, "signature": "FYFMGl2lF5O-q_RK6v3yR-CFBANH2YpI015pittySW4" }
+207 error decoding JWT BadJSON {"header": {"alg":"HS256","kid":"pikachu","typ":"JWT"}, "payload": {"exp":1778466593,"iat":1768098593,"jti":"d6ac162ab21c4b8bb25417639366a492","role":"user","uid":"ed16bef9465f44a89b2f2910bdb292c9","streams":"hd","concurrency":4,"profileId":"36cc1ff5bee0401495d3bd216ee86f8e","profileName":"bubbas🫶??","kids":true,"tz":"Australia/Hobart","app":"Stan-AndroidTV","ver":"5.17.0","nuid":"e99f1bfd4d334695bed401a9f4bcd0c7","apid":"b342799e-2968-0bb0-8181-938dd21607ee","feat":53945329125128,"priceName":"premiumv6"}, "signature": "FYFMGl2lF5O-q_RK6v3yR-CFBANH2YpI015pittySW4" }
+```
+
+```
+$ duckdb -csv -c "select jwt_profileName from read_csv('voo.tsv', delim = '\t',ignore_errors = true) where jwt_features like '%Premium%'"
+```
