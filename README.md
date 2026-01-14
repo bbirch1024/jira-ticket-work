@@ -330,3 +330,25 @@ Mon May 11 02:30:16 UTC 2026
 $ gdate -d @1778466616 -u
 Mon May 11 02:30:16 UTC 2026
 ```
+
+## Look at the searches over time
+```
+$ duckdb -csv -c "select jwt_uid, param_q, event_model, event_totalResults from 'cloudwatch/search.2026.01.11.13.30.tsv' order by jwt_uid, event_serverTime" | visidata -
+```
+examples
+```
+│ e2602d28db2546d08bb8108c821fdcde │ be                                       │ stan-search         │                 30 │                                                                                                                                  
+│ e2602d28db2546d08bb8108c821fdcde │ ben                                      │ stan-search         │                 30 │                                                                                                                                  
+│ e2602d28db2546d08bb8108c821fdcde │ benn                                     │ stan-search         │                  3 │                                                                                                                                  
+│ e2602d28db2546d08bb8108c821fdcde │ benne                                    │ stan-search         │                  0 │                                                                                                                                  
+│ e2602d28db2546d08bb8108c821fdcde │ bennet                                   │ stan-search         │                  0 │                                                                                                                                  
+│ e2602d28db2546d08bb8108c821fdcde │ bennett                                  │ google-media-search │                 30 │                                                                                                                                  
+
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ pr                                       │ stan-search         │                 30 │                                                                                                                                  
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ pri                                      │ stan-search         │                 30 │                                                                                                                                  
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ prim                                     │ stan-search         │                  2 │                                                                                                                                  
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ prima                                    │ stan-search         │                  2 │                                                                                                                                  
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ primat                                   │ google-media-search │                 10 │                                                                                                                                  
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ primati                                  │ google-media-search │                 17 │                                                                                                                                  
+│ d2e4277b2b3e48bc806dd0d3ffa5d256 │ primativ                                 │ stan-search         │                  0 │  
+```
