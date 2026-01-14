@@ -7,12 +7,15 @@ import "core:slice"
 import "core:sort"
 import "core:strings"
 
-import json "core:encoding/json"
+import "core:encoding/json"
+import "core:encoding/base64"
 
 import client "../vendor/odin-http/client"
 
 main :: proc() {
-	get(os.args[1], os.get_env("JWT"))
+    jwt := strings.trim_space(strings.clone(os.get_env("JWT")))
+    fmt.eprintf("JWT: <%s>\n", jwt)
+	get(os.args[1], jwt)
 }
 
 // basic get request.
@@ -20,7 +23,12 @@ get :: proc(query: string, jwToken: string) {
 	//env := "api.test.streamco.com.au"
 	env := "api.stan.com.au"
 	base_url := "https://%s/search/v12/search?q=%s&jwToken=%s"
-    res, err := client.get( fmt.tprintf(base_url, env, query, jwToken) )
+    if len(os.args) > 2 {
+        base_url = "https://%s/search/v12/blue/search?q=%s&jwToken=%s"
+    }
+    URL := fmt.tprintf(base_url, env, query, jwToken)
+    fmt.eprintf("URL: %s\n", URL)
+    res, err := client.get( URL )
 
 	if err != nil {
 		fmt.printf("Request failed: %s", err)
@@ -66,7 +74,19 @@ pprint :: proc(tree: json.Value, level: int) {
             }
             slice.sort(keys[:])
             for k in keys  {
-                if k != "" {
+                switch k {
+                case "":
+                case "correlationId": fallthrough
+                case "correlationID":
+                    fmt.printf("\n")
+                    indent(level)
+                     fmt.printf("%s: ", k)
+                     if s, ok := v[k].(string); ok {
+                        printCorrelationID(s)
+                    } else {
+                        fmt.printf("%v", v[k])
+                    }
+                case:
                     fmt.printf("\n")
                     indent(level)
                     fmt.printf("%s: ", k)
@@ -89,4 +109,22 @@ pprint :: proc(tree: json.Value, level: int) {
         case json.Null:
             fmt.printf("null")
     }
+}
+
+printCorrelationID :: proc(id: string) {
+    decoded, err := base64.decode(id)
+    if err != nil || strings.starts_with(id, "stan_") {
+        fmt.printf(id)
+        return
+    }
+//    fmt.printf("len decoded %d\n%#v\n", len(decoded), string(decoded))
+    for i := len(decoded) - 1; i >= 0; i -= 1 {
+        if !(decoded[i] >= 0x20 && decoded[i] <= 0x7E) {
+            str := string(decoded)
+            sub := str[i+1:]
+            fmt.printf("%s", sub)
+            return
+        }
+    }
+    fmt.printf("unprintable")
 }
