@@ -367,3 +367,30 @@ $ odin run cloudwatchlog -- cloudwatch/search.2026.01.11.13.30.csv > cloudwatch/
 ```
 $ duckdb -csv -c "select jwt_profileName from read_csv('voo.tsv', delim = '\t',ignore_errors = true) where jwt_features like '%Premium%'"
 ```
+
+### use feature characters to query 
+
+```
+$ grep Sport features/features.odin
+features/features.odin:    features["FeatureSport"] = 6
+features/features.odin:    features["FeatureSportUpsell"] = 17
+features/features.odin:    features["FeatureSportStreamingInVenues"] = 24
+features/features.odin:    features["FeatureOptusBasicAndSportUpsellExperiment"] = 46
+features/features.odin:    features["FeatureOptusStandardAndSportUpsellExperiment"] = 47
+
+$ odin run features -- 64
+6 G FeatureSport
+
+$ duckdb -csv -c "select param_q from read_csv('foo.tsv', delim = '\t',ignore_errors = true) where jwt_features like '%G%' " | head -10
+param_q
+a
+a
+Manchester city ba 
+ac
+four colo
+Train
+str
+Manchester city vs 
+Training
+
+```

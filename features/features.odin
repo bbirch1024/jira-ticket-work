@@ -1,6 +1,7 @@
 package features
 
 import "core:fmt"
+import "core:math/bits"
 import "core:slice"
 import "core:strings"
 
@@ -56,6 +57,24 @@ init :: proc "contextless"() {
     features["FeatureCommonAccessToken"] = 48
 }
 
+minFeature: u64
+maxFeature: u64
+allFeatures: u64
+
+@(init)
+initialise :: proc "contextless" ()  {
+    minFeature = bits.U64_MAX
+    for _, f in features {
+        allFeatures |= u64(1) << f
+        if f > maxFeature {
+            maxFeature = f
+        }
+        if f < minFeature {
+            minFeature = f
+        }
+    }
+}
+
 featuresToString :: proc(feat: u64, sep: string) -> string {
     result: [dynamic]string
     for k, v in features {
@@ -69,3 +88,34 @@ featuresToString :: proc(feat: u64, sep: string) -> string {
     return strings.join(result[:], sep)
 }
 
+u8_to_char :: proc(f: u64) -> rune {
+    assert(f <= maxFeature)
+    if f <= u64(26) {
+        return rune('A' + f)
+    }
+    if f <= 2 * u64(26) {
+        return rune('a' + f-u64(26) )
+    }
+    return rune('0' + f - 2*u64(26))
+}
+
+featuresToPips :: proc(feat: u64, sep: string) -> string {
+    result: string
+    for f := minFeature ; f <= maxFeature ; f += 1 {
+        flag: rune = '.'
+        if !( (u64(1) << f) & allFeatures != 0 ) {
+            flag = ','
+        }
+        if feat & (u64(1) << f) != 0 {
+            flag = u8_to_char(f)
+//            fmt.println(f,  u8_to_char(f))
+        }
+        flgstr := string([]u8{u8(flag)})
+        result = strings.concatenate({result, flgstr})
+        if (1+len(result)) % 6 == 0 {
+            result = strings.concatenate({result, " "})
+        }
+//        fmt.println(minFeature, f, result)
+    }
+    return result
+}

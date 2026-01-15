@@ -13,7 +13,7 @@ import feat "../features"
 import jwt "../../../birchb1024/jwt/jwtdecode"
 main :: proc() {
 
-    //
+    // open the file
     if len(os.args) < 2 {
         panic("missing filename")
     }
@@ -88,9 +88,6 @@ main :: proc() {
             key := strings.concatenate({"param_", k})
             fieldNames[key] = {}
             result[key] = v
-//            if k == "jwToken" {
-//                fmt.eprintf("%v %#v\n", k, v)
-//            }
         }
 
         // extract the JWT fields
@@ -113,7 +110,7 @@ main :: proc() {
         }
         // decode jwt features
         if ft, ok := strconv.parse_uint(result["jwt_feat"]); ok {
-            result["jwt_features"] = feat.featuresToString(u64(ft), ",")
+            result["jwt_features"] = feat.featuresToPips(u64(ft), ",")
         }
         // save the unpacked data
         append(&rows, result)
